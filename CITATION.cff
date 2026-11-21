@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Thomas in the East: the Gospel of Thomas, the Gondophares strand, and the limits of the Chinese record"
+authors:
+  - family-names: "Chourey"
+    given-names: "Atharva"
+    orcid: "https://orcid.org/0009-0009-9423-1718"
+    affiliation: "Atharva Chourey Lab — independent research lab"
+license: CC-BY-4.0
+repository-code: "https://github.com/atharva-chourey-lab/thomas-file"
+keywords:
+  - "Gospel of Thomas"
+  - "Gondophares"
+  - "Thomas Christians"
+  - "Chinese records"
+version: "1.0.0-publication"
+date-released: "2026-11-20"
